@@ -1,6 +1,6 @@
 ---
 title: 시작하기
-category: ComponentOne/Winforms
+category: ComponentOne\Winforms
 order: 1
 ---
 
